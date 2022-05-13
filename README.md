@@ -15,3 +15,8 @@ This repository is intended to be used as reference. It contains files related t
 1. Scope
 1. Modules
 1. ~~Requests~~ (Coming soon)
+
+## Java
+"Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+### Projects
+1. Tree.java: Planting a Tree
